@@ -1,6 +1,6 @@
 ---
 title: find-coffee-shop
-timestamp: 2016-12-08T16:57:33.739968587-05:00
+timestamp: 2016-12-08T17:03:36.611409368-05:00
 ---
 
 Hi
